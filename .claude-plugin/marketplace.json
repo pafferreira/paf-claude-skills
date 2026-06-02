@@ -1,0 +1,23 @@
+{
+  "name": "paf-skills",
+  "owner": {
+    "name": "Paulo Ferreira",
+    "email": "pafferreira@gmail.com",
+    "url": "https://github.com/pafferreira"
+  },
+  "description": "Skills pessoais do PAF para Claude Code — design system, padrões UI e helpers.",
+  "plugins": [
+    {
+      "name": "estilo-paf",
+      "source": "./plugins/estilo-paf",
+      "description": "Design system pessoal do PAF: paleta azul, Nunito+Inter, dark mode, animações sem reflow, componentes React/TSX padrão.",
+      "version": "2.0.0",
+      "author": {
+        "name": "Paulo Ferreira",
+        "email": "pafferreira@gmail.com"
+      },
+      "keywords": ["design-system", "ui", "css", "tailwind", "react", "pt-br"],
+      "category": "design"
+    }
+  ]
+}

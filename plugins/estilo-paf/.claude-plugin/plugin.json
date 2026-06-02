@@ -1,0 +1,11 @@
+{
+  "name": "estilo-paf",
+  "version": "2.0.0",
+  "description": "Design system pessoal do PAF (Paulo Ferreira) — paleta azul corporativa, Nunito+Inter, componentes padronizados, dark mode, animações sem reflow.",
+  "author": {
+    "name": "Paulo Ferreira",
+    "email": "pafferreira@gmail.com"
+  },
+  "keywords": ["design-system", "ui", "css", "tailwind", "react", "pt-br"],
+  "license": "MIT"
+}
